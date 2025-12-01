@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Media Player",
+  "description": "A React-based video player with local folder scanning, subtitle management, and AI-powered translation using Gemini.",
+  "requestFramePermissions": []
+}
